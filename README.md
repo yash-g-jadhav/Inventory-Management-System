@@ -185,18 +185,6 @@ Use the following credentials to log in:
 
 ---
 
-## 🌐 Demo
-
-**GitHub Repository:**
-
-> **Repository Link:** **[Add your GitHub repository link here]**
-
-**Desktop Application**
-
-This project is a desktop application and can be run locally by following the installation steps above.
-
----
-
 ## 🚀 Future Enhancements
 
 - Customer Management Module
@@ -228,7 +216,7 @@ This project demonstrates practical implementation of:
 
 ## 👨‍💻 Author
 
-**Arjun**
+**Yash Ganesh Jadhav**
 
 Computer Engineering Student
 
